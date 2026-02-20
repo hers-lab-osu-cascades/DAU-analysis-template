@@ -1,6 +1,6 @@
 # Data
 
-Place raw files into the **raw folder** before running analyses. Raw data files are not committed to this repository by default. NPS published data can be downloaded via scripts or manually at [NPS Data Store](https://irma.nps.gov/DataStore/). If manually downloaded, the files should be saved in af folder named after the reference number (i.e, data/raw/[referencenumber][data files]). 
+Place raw files into the **raw folder** before running analyses. Raw data files are not committed to this repository by default. NPS published data can be downloaded via scripts or manually at [NPS Data Store](https://irma.nps.gov/DataStore/). If manually downloaded, the files should be saved in a folder named after the reference number (i.e., data/raw/[referencenumber][data files]). 
 
 Data in this project may come from several sources:
 
@@ -10,3 +10,12 @@ Data in this project may come from several sources:
   [DAU Box drive](https://oregonstate.box.com/s/sa0uvqyeyymfy0vsc4ro7erwg23aya0p)
 - **Local only** - smaller CSVs or working files may be stored locally and 
   pushed to GitHub to the raw or processed folders
+
+  ## **Files needed:**
+- `file1.csv`
+- `file2.csv`
+- ...
+- 
+ ## **Optional**
+- `dataset.xml` - Variable definitions and documentation
+
