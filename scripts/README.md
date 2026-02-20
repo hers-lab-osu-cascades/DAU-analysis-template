@@ -16,6 +16,9 @@ Scripts in the root `scripts/` folder are shared resources used across analysis
 and exploratory workflows. This may include data download, reformatting, or helper 
 functions used by multiple scripts.
 
+This template comes with: `download_NPS_data_store.R` which allows user to download published data from irma into the data folder. 
+
+
 - `00_[name].R` - [description]
 - `functions_[topic].R` - helper functions for [topic]. Formatted for pulling 
   into an R package if needed in the future.
