@@ -14,7 +14,7 @@
 
 ## Repository Structure
 - `data/` - raw data, never modified, likely pulled from Irma (for NPS projects)
-- `data/processed/` - can save reformatted or processed dataframes from scripts 
+- `data/processed/` - reformatted or processed dataframes from scripts 
 - `scripts/` - see scripts/README.md
 - `outputs/` - figures and tables
 
