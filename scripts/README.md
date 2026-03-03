@@ -28,5 +28,5 @@ Scripts follow a descriptive naming convention using lowercase and underscores:
 |------|---------|
 | Numbered workflow | `00_download_reformat_data.R` |
 | Standalone | `download_NPS_data_store.R` |
-| Shared functions | `functions_power_analysis.R` |
+| Shared functions | `function_power_analysis.R` |
 
